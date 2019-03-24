@@ -1,0 +1,161 @@
+F:\PTM\parent login\parent login\bin\ApplicationInsights.config
+F:\PTM\parent login\parent login\bin\roslyn\csc.exe
+F:\PTM\parent login\parent login\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\PTM\parent login\parent login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\PTM\parent login\parent login\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\PTM\parent login\parent login\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\PTM\parent login\parent login\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\PTM\parent login\parent login\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\PTM\parent login\parent login\bin\roslyn\System.Collections.Immutable.dll
+F:\PTM\parent login\parent login\bin\roslyn\System.Reflection.Metadata.dll
+F:\PTM\parent login\parent login\bin\roslyn\vbc.exe
+F:\PTM\parent login\parent login\bin\roslyn\VBCSCompiler.exe
+F:\PTM\parent login\parent login\bin\roslyn\VBCSCompiler.exe.config
+F:\PTM\parent login\parent login\bin\parent login.dll.config
+F:\PTM\parent login\parent login\bin\parent login.dll
+F:\PTM\parent login\parent login\bin\parent login.pdb
+F:\PTM\parent login\parent login\bin\Antlr3.Runtime.dll
+F:\PTM\parent login\parent login\bin\AspNet.ScriptManager.bootstrap.dll
+F:\PTM\parent login\parent login\bin\AspNet.ScriptManager.jQuery.dll
+F:\PTM\parent login\parent login\bin\EntityFramework.dll
+F:\PTM\parent login\parent login\bin\EntityFramework.SqlServer.dll
+F:\PTM\parent login\parent login\bin\Microsoft.AI.Agent.Intercept.dll
+F:\PTM\parent login\parent login\bin\Microsoft.AI.DependencyCollector.dll
+F:\PTM\parent login\parent login\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\PTM\parent login\parent login\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\PTM\parent login\parent login\bin\Microsoft.AI.Web.dll
+F:\PTM\parent login\parent login\bin\Microsoft.AI.WindowsServer.dll
+F:\PTM\parent login\parent login\bin\Microsoft.ApplicationInsights.dll
+F:\PTM\parent login\parent login\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\PTM\parent login\parent login\bin\Microsoft.AspNet.Identity.Core.dll
+F:\PTM\parent login\parent login\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\PTM\parent login\parent login\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\PTM\parent login\parent login\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\PTM\parent login\parent login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\PTM\parent login\parent login\bin\Microsoft.Owin.dll
+F:\PTM\parent login\parent login\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\PTM\parent login\parent login\bin\Microsoft.Owin.Security.Cookies.dll
+F:\PTM\parent login\parent login\bin\Microsoft.Owin.Security.dll
+F:\PTM\parent login\parent login\bin\Microsoft.Owin.Security.Facebook.dll
+F:\PTM\parent login\parent login\bin\Microsoft.Owin.Security.Google.dll
+F:\PTM\parent login\parent login\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\PTM\parent login\parent login\bin\Microsoft.Owin.Security.OAuth.dll
+F:\PTM\parent login\parent login\bin\Microsoft.Owin.Security.Twitter.dll
+F:\PTM\parent login\parent login\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\PTM\parent login\parent login\bin\Microsoft.ScriptManager.WebForms.dll
+F:\PTM\parent login\parent login\bin\Microsoft.Web.Infrastructure.dll
+F:\PTM\parent login\parent login\bin\Newtonsoft.Json.dll
+F:\PTM\parent login\parent login\bin\Owin.dll
+F:\PTM\parent login\parent login\bin\System.Web.Optimization.dll
+F:\PTM\parent login\parent login\bin\System.Web.Providers.dll
+F:\PTM\parent login\parent login\bin\WebGrease.dll
+F:\PTM\parent login\parent login\bin\Microsoft.AI.DependencyCollector.xml
+F:\PTM\parent login\parent login\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\PTM\parent login\parent login\bin\Microsoft.AI.Web.xml
+F:\PTM\parent login\parent login\bin\Microsoft.AI.WindowsServer.xml
+F:\PTM\parent login\parent login\bin\Microsoft.ApplicationInsights.xml
+F:\PTM\parent login\parent login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\PTM\parent login\parent login\bin\System.Web.Optimization.xml
+F:\PTM\parent login\parent login\bin\Antlr3.Runtime.pdb
+F:\PTM\parent login\parent login\bin\Newtonsoft.Json.xml
+F:\PTM\parent login\parent login\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\PTM\parent login\parent login\bin\EntityFramework.xml
+F:\PTM\parent login\parent login\bin\EntityFramework.SqlServer.xml
+F:\PTM\parent login\parent login\bin\Microsoft.AspNet.Identity.Core.xml
+F:\PTM\parent login\parent login\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\PTM\parent login\parent login\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\PTM\parent login\parent login\bin\System.Web.Providers.xml
+F:\PTM\parent login\parent login\bin\Microsoft.Owin.xml
+F:\PTM\parent login\parent login\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\PTM\parent login\parent login\bin\Microsoft.Owin.Security.xml
+F:\PTM\parent login\parent login\bin\Microsoft.Owin.Security.Facebook.xml
+F:\PTM\parent login\parent login\bin\Microsoft.Owin.Security.Cookies.xml
+F:\PTM\parent login\parent login\bin\Microsoft.Owin.Security.Google.xml
+F:\PTM\parent login\parent login\bin\Microsoft.Owin.Security.Twitter.xml
+F:\PTM\parent login\parent login\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\PTM\parent login\parent login\bin\Microsoft.Owin.Security.OAuth.xml
+F:\PTM\parent login\parent login\obj\Debug\parent login.csprojResolveAssemblyReference.cache
+F:\PTM\parent login\parent login\obj\Debug\parent login.dll
+F:\PTM\parent login\parent login\obj\Debug\parent login.pdb
+C:\Users\Narmada Priya\Desktop\PTM\parent login\parent login\obj\Debug\parent login.csprojResolveAssemblyReference.cache
+C:\Users\Narmada Priya\Desktop\PTM\parent login\parent login\obj\Debug\parent login.dll
+C:\Users\Narmada Priya\Desktop\PTM\parent login\parent login\obj\Debug\parent login.pdb
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\obj\Debug\parent login.csprojResolveAssemblyReference.cache
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\obj\Debug\parent login.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\obj\Debug\parent login.pdb
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\ApplicationInsights.config
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\roslyn\csc.exe
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\roslyn\vbc.exe
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\roslyn\VBCSCompiler.exe
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\parent login.dll.config
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\parent login.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\parent login.pdb
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Antlr3.Runtime.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\EntityFramework.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\EntityFramework.SqlServer.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.AI.Web.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.Owin.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.Owin.Security.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Newtonsoft.Json.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Owin.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\System.Web.Optimization.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\System.Web.Providers.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\WebGrease.dll
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.AI.Web.xml
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\System.Web.Optimization.xml
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Antlr3.Runtime.pdb
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Newtonsoft.Json.xml
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\EntityFramework.xml
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\EntityFramework.SqlServer.xml
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\System.Web.Providers.xml
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.Owin.xml
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.Owin.Security.xml
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Narmada Priya\Desktop\backup ptm\PTM\parent login\parent login\bin\Microsoft.Owin.Security.OAuth.xml
